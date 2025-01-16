@@ -3,7 +3,6 @@ title: "This week I read, 1"
 description: "Hit the ground running."
 date: "2025-01-16"
 draft : true
-tags:
 ---
 
 ---
